@@ -1,18 +1,10 @@
 # Tour-guide-java-object-oriented-programming
 
 
-Developed a Java-based Tour Guide project, incorporating Object-Oriented Programming (OOP) principles.
+Created a Java project for a Tour Guide using Object-Oriented Programming concepts like inheritance and polymorphism. This means organizing different types of locations and tours in a logical way and allowing for flexible behavior and adding new features easily.
 
-Implemented inheritance to establish a hierarchical relationship among different types of locations and Utilized
-polymorphism to enable dynamic behavior and seamless integration of new features.
+Designed classes for locations, user preferences, and various tour packages like Season Tour, Economic Tour, and Month Tour. Also included a billing system to accurately calculate and display tour costs.
 
-Designed classes for locations, user preferences, and tour packages, including Season Tour, Economic Tour, and Month
-Tour
+The project uses many fundamental Java concepts like threads, strings, and interfaces.
 
-Integrated a billing system to calculate and display tour costs accurately.
-
-This project includes concepts of inheritance, polymorphism, encapsulation, abstarctions, interfaces, threads, strings, stringbuffer and many more.
-
-Received commendation for delivering an efficient and comprehensive tour guide solution with a range of facilities catering to diverse user preferences.
-
-You can download the java file named ToutPackage and run it and enkoy your tour.
+Received praise for delivering a user-friendly and comprehensive tour guide solution that meets the needs of various users. You can download and run the Java file named "TourPackage" to enjoy your tour.
